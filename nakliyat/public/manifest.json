@@ -1,0 +1,20 @@
+{
+  "name": "Güven Nakliyat - Profesyonel Taşımacılık Hizmetleri",
+  "short_name": "Güven Nakliyat",
+  "description": "Güvenilir, hızlı ve ekonomik nakliyat hizmetleri. Evden eve, ofis taşıma ve şehirler arası nakliyat çözümleri.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2563eb",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "lang": "tr",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "categories": ["business", "transportation", "logistics"]
+}

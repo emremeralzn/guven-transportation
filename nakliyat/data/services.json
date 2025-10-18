@@ -1,0 +1,382 @@
+{
+  "services": [
+    {
+      "id": "evden-eve-nakliyat",
+      "title": "Evden Eve Nakliyat",
+      "slug": "evden-eve-nakliyat",
+      "description": "Ev eşyalarınızı güvenle taşıyoruz. Profesyonel ekip ve modern araçlarla hızlı hizmet.",
+      "detailedDescription": "Evden eve nakliyat hizmetimizle, değerli eşyalarınızı en güvenli şekilde yeni adresinize taşıyoruz. 15 yıllık deneyimimiz ve uzman ekibimizle, ev taşıma sürecini sizin için stressiz hale getiriyoruz. Modern paketleme teknikleri, sigortalı taşıma ve montaj hizmetleriyle tam kapsamlı çözüm sunuyoruz.",
+      "features": [
+        "Profesyonel paketleme ve ambalajlama",
+        "Güvenli ve sigortalı taşıma",
+        "Montaj ve demontaj hizmetleri",
+        "Eşya envanteri ve fotoğraflama",
+        "Özel eşya taşıma çözümleri",
+        "Temizlik hizmetleri",
+        "7/24 müşteri desteği"
+      ],
+      "benefits": [
+        "Eşyalarınızın %100 güvenliği",
+        "Sigorta kapsamında taşıma",
+        "Profesyonel montaj ekibi",
+        "Hızlı ve zamanında teslimat",
+        "Ekonomik fiyat garantisi"
+      ],
+      "process": [
+        {
+          "step": 1,
+          "title": "Ücretsiz Keşif",
+          "description": "Uzman ekibimiz evinizi ziyaret ederek eşyalarınızı inceler ve detaylı fiyat teklifi sunar."
+        },
+        {
+          "step": 2,
+          "title": "Planlama",
+          "description": "Taşıma tarihi belirlenir, gerekli malzemeler hazırlanır ve detaylı plan oluşturulur."
+        },
+        {
+          "step": 3,
+          "title": "Paketleme",
+          "description": "Eşyalarınız profesyonel malzemelerle paketlenir ve envanter çıkarılır."
+        },
+        {
+          "step": 4,
+          "title": "Taşıma",
+          "description": "Modern araçlarımızla güvenli taşıma gerçekleştirilir ve teslimat yapılır."
+        }
+      ],
+      "price": "Ücretsiz keşif",
+      "icon": "https://res.cloudinary.com/your-cloud/image/upload/v1/home-moving.svg",
+      "image": "https://res.cloudinary.com/dtgayqxdr/image/upload/v1760702937/evden-eve-nakliyat_xyeecx.png",
+      "keywords": "evden eve nakliyat, ev taşıma, eşya taşıma, konut nakliyat, ev nakliyat",
+      "metaDescription": "Profesyonel evden eve nakliyat hizmeti. Güvenli taşıma, sigortalı hizmet, montaj desteği. Ücretsiz keşif ve uygun fiyat garantisi.",
+      "faq": [
+        {
+          "question": "Evden eve nakliyat ne kadar sürer?",
+          "answer": "Taşıma süresi evin büyüklüğüne ve eşya miktarına göre değişir. Genellikle 1-2 gün içinde tamamlanır."
+        },
+        {
+          "question": "Eşyalarım sigortalı mı?",
+          "answer": "Evet, tüm eşyalarınız tam sigorta kapsamında taşınır. Herhangi bir hasar durumunda sigorta devreye girer."
+        },
+        {
+          "question": "Montaj hizmeti dahil mi?",
+          "answer": "Evet, mobilya montaj ve demontaj hizmetleri paket fiyatımıza dahildir."
+        }
+      ]
+    },
+    {
+      "id": "ofis-tasima",
+      "title": "Ofis Taşıma",
+      "slug": "ofis-tasima",
+      "description": "Ofis taşıma hizmetlerimizle işinizi aksatmadan taşıyoruz. Hızlı ve düzenli çözümler.",
+      "detailedDescription": "İşyerinizin taşınması kritik bir süreçtir ve iş akışınızı minimum düzeyde etkilemelidir. Ofis taşıma uzmanlarımız, teknoloji ekipmanlarından hassas cihazlara kadar tüm ofis malzemelerinizi güvenle taşır. Hafta sonu ve gece saatlerinde hizmet vererek işinizi aksatmadan taşıma işlemini gerçekleştiriyoruz.",
+      "features": [
+        "Hafta sonu ve gece taşıma",
+        "Teknik ekipman taşıma",
+        "Dosya ve evrak güvenliği",
+        "Hızlı kurulum ve yerleştirme",
+        "IT ekipmanları özel taşıma",
+        "Arşiv ve kütüphane taşıma",
+        "Temizlik hizmetleri"
+      ],
+      "benefits": [
+        "İş akışınızı aksatmadan taşıma",
+        "Teknik ekipmanların güvenliği",
+        "Profesyonel kurulum ekibi",
+        "Hızlı ve düzenli yerleştirme",
+        "7/24 teknik destek"
+      ],
+      "process": [
+        {
+          "step": 1,
+          "title": "Ofis Analizi",
+          "description": "Ofisinizin detaylı analizi yapılır, ekipmanlar listelenir ve taşıma planı oluşturulur."
+        },
+        {
+          "step": 2,
+          "title": "Zaman Planlaması",
+          "description": "İş akışınızı aksatmayacak şekilde en uygun zaman belirlenir."
+        },
+        {
+          "step": 3,
+          "title": "Paketleme",
+          "description": "Teknik ekipmanlar özel malzemelerle paketlenir, dosyalar güvenli kutularda saklanır."
+        },
+        {
+          "step": 4,
+          "title": "Taşıma ve Kurulum",
+          "description": "Güvenli taşıma sonrası hızlı kurulum ve yerleştirme yapılır."
+        }
+      ],
+      "price": "Ücretsiz keşif",
+      "icon": "https://res.cloudinary.com/your-cloud/image/upload/v1/office-moving.svg",
+      "image": "https://res.cloudinary.com/dtgayqxdr/image/upload/v1760702937/ofistasima_2_lk2h5j.png",
+      "keywords": "ofis taşıma, şirket taşıma, işyeri taşıma, ofis nakliyat, kurumsal taşıma",
+      "metaDescription": "Profesyonel ofis taşıma hizmeti. Teknik ekipman taşıma, hızlı kurulum, iş akışını aksatmayan çözümler.",
+      "faq": [
+        {
+          "question": "Ofis taşıma ne kadar sürer?",
+          "answer": "Ofis büyüklüğüne göre 1-3 gün arasında değişir. Büyük ofisler için hafta sonu planlaması yapılır."
+        },
+        {
+          "question": "Teknik ekipmanlar güvenli mi?",
+          "answer": "Bilgisayar, yazıcı ve diğer teknik ekipmanlar özel paketleme ile güvenle taşınır."
+        },
+        {
+          "question": "Kurulum hizmeti dahil mi?",
+          "answer": "Evet, tüm mobilya ve ekipmanların kurulumu profesyonel ekibimiz tarafından yapılır."
+        }
+      ]
+    },
+    {
+      "id": "sehir-ici-tasima",
+      "title": "Şehir İçi Taşıma",
+      "slug": "sehir-ici-tasima",
+      "description": "Şehir içi kısa mesafe taşıma hizmetleri. Hızlı ve ekonomik çözümler.",
+      "detailedDescription": "Şehir içi taşıma hizmetimizle, aynı şehir içindeki kısa mesafe taşıma ihtiyaçlarınızı hızlı ve ekonomik şekilde karşılıyoruz. Küçük ev eşyalarından büyük mobilyalara kadar her türlü eşyanızı güvenle taşıyoruz. Aynı gün teslimat imkanı ile acil ihtiyaçlarınızı karşılıyoruz.",
+      "features": [
+        "Aynı gün taşıma imkanı",
+        "Ekonomik fiyatlar",
+        "Esnek saatler",
+        "Hızlı teslimat",
+        "Küçük eşya taşıma",
+        "Mobilya taşıma",
+        "Tek seferlik taşıma"
+      ],
+      "benefits": [
+        "Hızlı ve pratik çözüm",
+        "Ekonomik fiyat avantajı",
+        "Esnek zaman planlaması",
+        "Aynı gün teslimat",
+        "Güvenli taşıma garantisi"
+      ],
+      "process": [
+        {
+          "step": 1,
+          "title": "Hızlı Teklif",
+          "description": "Telefon veya online form ile hızlı fiyat teklifi alırsınız."
+        },
+        {
+          "step": 2,
+          "title": "Randevu",
+          "description": "Size uygun zaman diliminde randevu oluşturulur."
+        },
+        {
+          "step": 3,
+          "title": "Taşıma",
+          "description": "Eşyalarınız güvenle paketlenir ve taşınır."
+        },
+        {
+          "step": 4,
+          "title": "Teslimat",
+          "description": "Yeni adresinize güvenle teslim edilir."
+        }
+      ],
+      "price": "Ücretsiz keşif",
+      "icon": "https://res.cloudinary.com/your-cloud/image/upload/v1/city-moving.svg",
+      "image": "https://res.cloudinary.com/dtgayqxdr/image/upload/v1760703267/sehirlerarasi_zrajdp.png",
+      "keywords": "şehir içi taşıma, kısa mesafe nakliyat, yerel taşıma, şehir içi nakliyat",
+      "metaDescription": "Şehir içi taşıma hizmeti. Aynı gün teslimat, ekonomik fiyatlar, hızlı ve güvenli çözümler.",
+      "faq": [
+        {
+          "question": "Şehir içi taşıma ne kadar sürer?",
+          "answer": "Genellikle aynı gün içinde tamamlanır. Mesafeye göre 2-6 saat arasında değişir."
+        },
+        {
+          "question": "Minimum taşıma miktarı var mı?",
+          "answer": "Hayır, tek bir eşya bile taşıyabiliriz. Minimum miktar sınırlamamız yoktur."
+        },
+        {
+          "question": "Acil taşıma yapabilir misiniz?",
+          "answer": "Evet, acil durumlar için aynı gün taşıma hizmeti veriyoruz."
+        }
+      ]
+    },
+    {
+      "id": "sehirler-arası-nakliyat",
+      "title": "Şehirler Arası Nakliyat",
+      "slug": "sehirler-arasi-nakliyat",
+      "description": "Şehirler arası güvenli taşıma hizmetleri. Türkiye geneli profesyonel hizmet.",
+      "detailedDescription": "Türkiye'nin her yerine şehirler arası nakliyat hizmeti sunuyoruz. Modern araç filomuz ve deneyimli şoförlerimizle, eşyalarınızı en güvenli şekilde uzak mesafelere taşıyoruz. Zamanında teslimat garantisi ile güvenli taşımacılık hizmeti veriyoruz.",
+      "features": [
+        "Türkiye geneli hizmet",
+        "Güvenli ve modern araçlar",
+        "Zamanında teslimat garantisi",
+        "Sigortalı taşıma",
+        "Profesyonel şoförler",
+        "7/24 müşteri hizmetleri"
+      ],
+      "benefits": [
+        "Türkiye'nin her yerine taşıma",
+        "Zamanında teslimat garantisi",
+        "Sigortalı ve güvenli taşıma",
+        "Profesyonel hizmet kalitesi"
+      ],
+      "process": [
+        {
+          "step": 1,
+          "title": "Detaylı Keşif",
+          "description": "Eşyalarınız detaylı olarak incelenir ve uzak mesafe taşıma planı oluşturulur."
+        },
+        {
+          "step": 2,
+          "title": "Fiyatlandırma",
+          "description": "Mesafe ve eşya miktarına göre detaylı fiyat teklifi sunulur."
+        },
+        {
+          "step": 3,
+          "title": "Paketleme ve Yükleme",
+          "description": "Eşyalar uzak mesafe için özel paketlenir ve güvenle yüklenir."
+        },
+        {
+          "step": 4,
+          "title": "Taşıma ve Teslimat",
+          "description": "Güvenli taşıma süreci başlar ve zamanında teslimat yapılır."
+        }
+      ],
+      "price": "Ücretsiz keşif",
+      "icon": "https://res.cloudinary.com/your-cloud/image/upload/v1/intercity-moving.svg",
+      "image": "https://res.cloudinary.com/dtgayqxdr/image/upload/v1760703575/sehirlararasinakliyat_2_yixpbv.png",
+      "keywords": "şehirler arası nakliyat, uzak mesafe taşıma, Türkiye geneli nakliyat, intercity taşıma",
+      "metaDescription": "Şehirler arası nakliyat hizmeti. Türkiye geneli taşıma, zamanında teslimat garantisi, güvenli araçlar.",
+      "faq": [
+        {
+          "question": "Şehirler arası taşıma ne kadar sürer?",
+          "answer": "Mesafeye göre 1-5 gün arasında değişir. Detaylı süre keşif sonrası belirlenir."
+        },
+        {
+          "question": "Hangi şehirlere hizmet veriyorsunuz?",
+          "answer": "Türkiye'nin tüm şehirlerine şehirler arası nakliyat hizmeti veriyoruz."
+        }
+      ]
+    },
+    {
+      "id": "ozel-esya-tasima",
+      "title": "Özel Eşya Taşıma",
+      "slug": "ozel-esya-tasima",
+      "description": "Antika, sanat eseri ve değerli eşyalarınızı özel paketleme ile taşıyoruz.",
+      "detailedDescription": "Değerli antikalarınız, sanat eserleriniz ve özel eşyalarınız için özel taşıma hizmeti sunuyoruz. Uzman ekibimiz ve özel paketleme malzemelerimizle, en hassas eşyalarınızı bile güvenle taşıyoruz. Her eşya için özel koruma çözümleri geliştiriyor, sigorta kapsamını maksimum düzeyde tutuyoruz.",
+      "features": [
+        "Özel paketleme malzemeleri",
+        "Sigortalı taşıma",
+        "Uzman ekip",
+        "Özel araçlar",
+        "İklim kontrollü taşıma",
+        "Değerli eşya uzmanı",
+        "Özel koruma çözümleri"
+      ],
+      "benefits": [
+        "Değerli eşyalarınızın güvenliği",
+        "Özel paketleme teknikleri",
+        "Maksimum sigorta kapsamı",
+        "Uzman ekip desteği",
+        "İklim kontrollü taşıma"
+      ],
+      "process": [
+        {
+          "step": 1,
+          "title": "Değerli Eşya Analizi",
+          "description": "Uzman ekibimiz eşyalarınızı analiz eder ve özel koruma planı oluşturur."
+        },
+        {
+          "step": 2,
+          "title": "Özel Paketleme",
+          "description": "Her eşya için özel paketleme malzemeleri kullanılır ve koruma sağlanır."
+        },
+        {
+          "step": 3,
+          "title": "Özel Taşıma",
+          "description": "İklim kontrollü özel araçlarla güvenli taşıma gerçekleştirilir."
+        },
+        {
+          "step": 4,
+          "title": "Güvenli Teslimat",
+          "description": "Eşyalarınız özel koruma ile teslim edilir ve kurulum yapılır."
+        }
+      ],
+      "price": "Ücretsiz keşif",
+      "icon": "https://res.cloudinary.com/your-cloud/image/upload/v1/special-moving.svg",
+      "image": "https://res.cloudinary.com/dtgayqxdr/image/upload/v1760703396/ozelesyatasima_r78lgw.png",
+      "keywords": "özel eşya taşıma, antika taşıma, değerli eşya, sanat eseri taşıma, özel nakliyat",
+      "metaDescription": "Özel eşya taşıma hizmeti. Antika, sanat eseri ve değerli eşyalar için özel paketleme ve güvenli taşıma.",
+      "faq": [
+        {
+          "question": "Hangi tür özel eşyalar taşıyorsunuz?",
+          "answer": "Antika mobilyalar, sanat eserleri, müzik aletleri, elektronik cihazlar ve tüm değerli eşyalar."
+        },
+        {
+          "question": "Özel paketleme malzemeleri kullanıyor musunuz?",
+          "answer": "Evet, her eşya türü için özel paketleme malzemeleri ve koruma çözümleri kullanıyoruz."
+        },
+        {
+          "question": "Sigorta kapsamı nasıl?",
+          "answer": "Değerli eşyalarınız için maksimum sigorta kapsamı sağlıyoruz."
+        }
+      ]
+    },
+    {
+      "id": "depo-hizmetleri",
+      "title": "Depo Hizmetleri",
+      "slug": "depo-hizmetleri",
+      "description": "Eşyalarınızı güvenli depolarda saklıyoruz. Kısa ve uzun vadeli çözümler.",
+      "detailedDescription": "Eşyalarınızı güvenli depolarda saklama hizmeti sunuyoruz. Modern depo tesislerimizde, 24/7 güvenlik sistemi, iklim kontrolü ve yangın güvenliği ile eşyalarınızı koruyoruz. Kısa vadeli geçici saklama ile uzun vadeli depolama seçenekleri sunuyoruz.",
+      "features": [
+        "Güvenli ve modern depo",
+        "24/7 güvenlik sistemi",
+        "İklim kontrollü ortam",
+        "Yangın güvenliği",
+        "Esnek saklama süreleri",
+        "Eşya envanteri",
+        "Online takip sistemi"
+      ],
+      "benefits": [
+        "Güvenli saklama ortamı",
+        "24/7 güvenlik garantisi",
+        "İklim kontrollü koruma",
+        "Esnek saklama süreleri",
+        "Online takip imkanı"
+      ],
+      "process": [
+        {
+          "step": 1,
+          "title": "Depo Seçimi",
+          "description": "İhtiyacınıza uygun depo türü ve büyüklüğü belirlenir."
+        },
+        {
+          "step": 2,
+          "title": "Eşya Envanteri",
+          "description": "Saklanacak eşyalar listelenir ve fotoğraflanır."
+        },
+        {
+          "step": 3,
+          "title": "Güvenli Saklama",
+          "description": "Eşyalarınız güvenli depoya yerleştirilir ve koruma sağlanır."
+        },
+        {
+          "step": 4,
+          "title": "Takip ve Teslim",
+          "description": "Online takip sistemi ile eşyalarınızı takip edebilir, istediğinizde teslim alabilirsiniz."
+        }
+      ],
+      "price": "Ücretsiz keşif",
+      "icon": "https://res.cloudinary.com/your-cloud/image/upload/v1/storage.svg",
+      "image": "https://res.cloudinary.com/dtgayqxdr/image/upload/v1760703457/depohizmeti_tqw77k.png",
+      "keywords": "depo hizmetleri, eşya saklama, depolama, güvenli depo, saklama hizmeti",
+      "metaDescription": "Güvenli depo hizmetleri. 24/7 güvenlik, iklim kontrolü, esnek saklama süreleri ile eşyalarınızı koruyoruz.",
+      "faq": [
+        {
+          "question": "Depo hizmeti ne kadar süreyle veriliyor?",
+          "answer": "Kısa vadeli (1-3 ay) ve uzun vadeli (6 ay+) saklama seçenekleri sunuyoruz."
+        },
+        {
+          "question": "Depo güvenliği nasıl sağlanıyor?",
+          "answer": "24/7 güvenlik kameraları, alarm sistemi ve güvenlik personeli ile koruma sağlıyoruz."
+        },
+        {
+          "question": "Eşyalarımı takip edebilir miyim?",
+          "answer": "Evet, online takip sistemi ile eşyalarınızın durumunu takip edebilirsiniz."
+        }
+      ]
+    }
+  ]
+}

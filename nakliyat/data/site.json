@@ -1,0 +1,29 @@
+{
+  "siteName": "Güven Nakliyat",
+  "tagline": "Güvenilir Taşımacılık Hizmetleri",
+  "description": "Profesyonel nakliyat ve taşımacılık hizmetleri. Güvenli, hızlı ve ekonomik çözümlerle eşyalarınızı güvenle taşıyoruz.",
+  "keywords": "nakliyat, taşımacılık, güven, evden eve, ofis taşıma, eşya taşıma, nakliye",
+  "logo": "https://res.cloudinary.com/dtgayqxdr/image/upload/v1760701128/guven-nakliyat-logo_tkxj4c.png",
+  "favicon": "https://res.cloudinary.com/your-cloud/image/upload/v1/favicon.ico",
+  "contact": {
+    "phone": "+905551234567",
+    "email": "info@guvennakliyat.com",
+    "address": "İstanbul, Türkiye",
+    "whatsapp": "+905551234567",
+    "whatsappMessage": "Merhaba! Nakliyat hizmetleriniz hakkında bilgi almak istiyorum."
+  },
+  "social": {
+    "facebook": "https://facebook.com/guvennakliyat",
+    "instagram": "https://instagram.com/guvennakliyat",
+    "twitter": "https://twitter.com/guvennakliyat",
+    "linkedin": "https://linkedin.com/company/guvennakliyat"
+  },
+  "business": {
+    "name": "Güven Nakliyat Ltd. Şti.",
+    "type": "Nakliyat ve Taşımacılık",
+    "foundingYear": "2010",
+    "employees": "50+",
+    "serviceAreas": ["İstanbul", "Ankara", "İzmir", "Bursa", "Antalya"],
+    "languages": ["Türkçe", "İngilizce", "Arapça"]
+  }
+}

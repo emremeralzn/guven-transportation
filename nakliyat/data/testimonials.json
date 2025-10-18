@@ -1,0 +1,64 @@
+{
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "Ahmet Yılmaz",
+      "location": "Kadıköy, İstanbul",
+      "rating": 5,
+      "text": "Çok profesyonel bir ekip. Eşyalarımız hiç zarar görmedi. Teşekkürler Güven Nakliyat!",
+      "date": "2024-01-15",
+      "service": "Evden Eve Nakliyat",
+      "avatar": "https://res.cloudinary.com/dtgayqxdr/image/upload/v1760707740/ahmet-y%C4%B1lmaz_hij4o9.png"
+    },
+    {
+      "id": 2,
+      "name": "Fatma Demir",
+      "location": "Çankaya, Ankara",
+      "rating": 5,
+      "text": "Ofis taşıma işimiz çok hızlı ve düzenli oldu. İşimize hiç ara vermeden taşındık.",
+      "date": "2024-01-10",
+      "service": "Ofis Taşıma",
+      "avatar": "https://res.cloudinary.com/dtgayqxdr/image/upload/v1760707737/fatma-demir_f8uzgk.png"
+    },
+    {
+      "id": 3,
+      "name": "Mehmet Kaya",
+      "location": "Konak, İzmir",
+      "rating": 5,
+      "text": "Şehirler arası taşıma hizmeti mükemmeldi. Zamanında teslim edildi.",
+      "date": "2024-01-05",
+      "service": "Şehirler Arası Nakliyat",
+      "avatar": "https://res.cloudinary.com/dtgayqxdr/image/upload/v1760707739/mehmet-kaya_wagzco.png"
+    },
+    {
+      "id": 4,
+      "name": "Ayşe Özkan",
+      "location": "Nilüfer, Bursa",
+      "rating": 5,
+      "text": "Antika eşyalarımızı çok dikkatli taşıdılar. Özel paketleme harikaydı.",
+      "date": "2023-12-28",
+      "service": "Özel Eşya Taşıma",
+      "avatar": "https://res.cloudinary.com/dtgayqxdr/image/upload/v1760707745/ayse-ozkan_sbmlr3.png"
+    },
+    {
+      "id": 5,
+      "name": "Ali Çelik",
+      "location": "Muratpaşa, Antalya",
+      "rating": 5,
+      "text": "Depo hizmetleri çok güvenli. Eşyalarımız aylarca sorunsuz kaldı.",
+      "date": "2023-12-20",
+      "service": "Depo Hizmetleri",
+      "avatar": "https://res.cloudinary.com/dtgayqxdr/image/upload/v1760707738/ali-celik_uedbcs.png"
+    },
+    {
+      "id": 6,
+      "name": "Zeynep Arslan",
+      "location": "Şişli, İstanbul",
+      "rating": 5,
+      "text": "Fiyatları çok uygun, hizmet kalitesi yüksek. Kesinlikle tavsiye ederim.",
+      "date": "2023-12-15",
+      "service": "Evden Eve Nakliyat",
+      "avatar": "https://res.cloudinary.com/dtgayqxdr/image/upload/v1760707742/zeynep-arslan_wd3l6e.png"
+    }
+  ]
+}

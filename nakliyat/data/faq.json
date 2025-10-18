@@ -1,0 +1,54 @@
+{
+  "faq": [
+    {
+      "id": 1,
+      "question": "Nakliyat fiyatları nasıl belirleniyor?",
+      "answer": "Fiyatlar eşya miktarı, mesafe, kat sayısı ve özel gereksinimler göz önünde bulundurularak belirlenir. Ücretsiz keşif yaparak kesin fiyat veriyoruz."
+    },
+    {
+      "id": 2,
+      "question": "Eşyalarım sigortalı mı?",
+      "answer": "Evet, tüm eşyalarınız taşıma sigortası kapsamındadır. Herhangi bir hasar durumunda sigorta şirketimiz gerekli tazminatı öder."
+    },
+    {
+      "id": 3,
+      "question": "Hangi günlerde hizmet veriyorsunuz?",
+      "answer": "Hafta içi ve hafta sonu 7/24 hizmet veriyoruz. Acil durumlar için gece hizmeti de mevcuttur."
+    },
+    {
+      "id": 4,
+      "question": "Taşıma süresi ne kadar?",
+      "answer": "Şehir içi taşımalar genellikle 1-2 gün, şehirler arası taşımalar ise mesafeye göre 2-5 gün arasında tamamlanır."
+    },
+    {
+      "id": 5,
+      "question": "Eşyalarımı nasıl paketleyeceğim?",
+      "answer": "Profesyonel paketleme ekibimiz tüm eşyalarınızı özenle paketler. Siz hiçbir şey yapmanıza gerek yok."
+    },
+    {
+      "id": 6,
+      "question": "Montaj ve demontaj hizmeti var mı?",
+      "answer": "Evet, mobilya montaj ve demontaj hizmetlerimiz mevcuttur. Teknisyen ekibimiz tüm işlemleri yapar."
+    },
+    {
+      "id": 7,
+      "question": "Ödeme nasıl yapılır?",
+      "answer": "Nakit, kredi kartı veya havale ile ödeme yapabilirsiniz. Peşin ödemelerde indirim uygulanır."
+    },
+    {
+      "id": 8,
+      "question": "Taşıma sırasında eşyalarımı takip edebilir miyim?",
+      "answer": "Evet, SMS ve telefon ile taşıma sürecini anlık olarak takip edebilirsiniz."
+    },
+    {
+      "id": 9,
+      "question": "Hangi şehirlere hizmet veriyorsunuz?",
+      "answer": "Türkiye genelinde hizmet veriyoruz. Özellikle İstanbul, Ankara, İzmir, Bursa ve Antalya'da yoğun hizmetimiz vardır."
+    },
+    {
+      "id": 10,
+      "question": "Keşif ücretsiz mi?",
+      "answer": "Evet, keşif hizmetimiz tamamen ücretsizdir. Evinize gelip eşyalarınızı inceler ve kesin fiyat veririz."
+    }
+  ]
+}
